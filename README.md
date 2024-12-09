@@ -1,2 +1,4 @@
 # Sahriar-s-First-Project
-It was my first project on Snake Game when i was go on the university 1st year student.
+This is my first github repository .
+Author: Sahriar Ahmad
+This is my first project on Snake Game when i was go on through the university 1st year student. 
